@@ -1,0 +1,20 @@
+Pneumatic error detector
+error_detector.jpeg
+arXiv   https://arxiv.org/abs/2401.16500
+GitHub  https://github.com/groverlab/pressurama
+
+Pressurama
+error_detector.jpeg
+GitHub  https://github.com/groverlab/pressurama
+
+Vacuum-powered Intermittent Pneumatic Compression (IPC) device
+ipc.png
+arXiv   https://arxiv.org/abs/2401.16500
+
+Vacuum-powered Intermittent Pneumatic Compression (IPC) device
+ipc.png
+arXiv   https://arxiv.org/abs/2401.16500
+
+Vacuum-powered Intermittent Pneumatic Compression (IPC) device
+ipc.png
+arXiv   https://arxiv.org/abs/2401.16500
