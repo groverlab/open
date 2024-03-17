@@ -13,7 +13,7 @@ for project in projectsfile.read().split("\n\n"):
     outfile.write(f'<p class="card-text">{name}</p>')
     outfile.write('<div class="btn-group">')
     for link in links:
-        outfile.write(f'<a href="{link.split()[1]}" class="btn btn-outline-warning">{link.split()[0]}</a>')
+        outfile.write(f'<a href="{link.split()[1]}" class="btn btn-sm btn-outline-warning">{link.split()[0]}</a>')
     outfile.write('</a></div></div></div></div>')
 
 outfile.write(infile2.read())

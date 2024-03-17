@@ -1,14 +1,16 @@
 Pneumatic error detector
 error_detector.jpeg
+Hardware  https://github.com/groverlab/pressurama
 Paper   https://arxiv.org/abs/2401.16500
-GitHub  https://github.com/groverlab/pressurama
 
-Pressurama
+Pressurama:  Arduino-based multi-channel pressure/vacuum logger
 error_detector.jpeg
-GitHub  https://github.com/groverlab/pressurama
+Code  https://github.com/groverlab/pressurama
+Hardware  https://github.com/groverlab/pressurama
 
 Vacuum-powered Intermittent Pneumatic Compression (IPC) device
 ipc.png
+Hardware    asdf
 Paper   https://arxiv.org/abs/2401.16500
 
 Vacuum-powered laboratory rocker/shaker 
@@ -21,14 +23,14 @@ Paper   asdf
 
 OCW:  A really simple language for controlling microfluidic valves
 ocw.png
-GitHub  https://github.com/groverlab/ocw
+Software  https://github.com/groverlab/ocw
 
 CandyCodes:  simple universally unique edible identifiers for confirming the authenticity of pharmaceuticals
 candycodes.png
-GitHub  https://github.com/groverlab/candycodes
+Code  https://github.com/groverlab/candycodes
 Paper  https://www.nature.com/articles/s41598-022-11234-4
 
 RFIDbee:  A low-cost Arduino-based system for tracking RFID-tagged bumblebees</a>
 rfidbee.png
-GitHub  https://github.com/groverlab/RFIDbee
-
+Code  https://github.com/groverlab/RFIDbee
+Hardware  https://github.com/groverlab/RFIDbee
