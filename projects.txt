@@ -11,10 +11,10 @@ Vacuum-powered Intermittent Pneumatic Compression (IPC) device
 ipc.png
 arXiv   https://arxiv.org/abs/2401.16500
 
-Vacuum-powered Intermittent Pneumatic Compression (IPC) device
-ipc.png
+Vacuum-powered laboratory rocker/shaker 
+rocker.png
 arXiv   https://arxiv.org/abs/2401.16500
 
 Vacuum-powered Intermittent Pneumatic Compression (IPC) device
 ipc.png
-arXiv   https://arxiv.org/abs/2401.16500
+medRxiv   https://www.medrxiv.org/content/10.1101/2024.01.24.24301744v1
