@@ -13,11 +13,11 @@ Paper   https://arxiv.org/abs/2401.16500
 
 Vacuum-powered laboratory rocker/shaker 
 rocker.png
-Paper   https://arxiv.org/abs/2401.16500
+Paper   https://www.medrxiv.org/content/10.1101/2024.01.24.24301744v1
 
 Vacuum-powered Intermittent Pneumatic Compression (IPC) device
 ipc.png
-Paper   https://www.medrxiv.org/content/10.1101/2024.01.24.24301744v1
+Paper   asdf
 
 OCW:  A really simple language for controlling microfluidic valves
 ocw.png
