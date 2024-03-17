@@ -1,6 +1,6 @@
 Pneumatic error detector
 error_detector.jpeg
-arXiv   https://arxiv.org/abs/2401.16500
+Paper   https://arxiv.org/abs/2401.16500
 GitHub  https://github.com/groverlab/pressurama
 
 Pressurama
@@ -9,16 +9,21 @@ GitHub  https://github.com/groverlab/pressurama
 
 Vacuum-powered Intermittent Pneumatic Compression (IPC) device
 ipc.png
-arXiv   https://arxiv.org/abs/2401.16500
+Paper   https://arxiv.org/abs/2401.16500
 
 Vacuum-powered laboratory rocker/shaker 
 rocker.png
-arXiv   https://arxiv.org/abs/2401.16500
+Paper   https://arxiv.org/abs/2401.16500
 
 Vacuum-powered Intermittent Pneumatic Compression (IPC) device
 ipc.png
-medRxiv   https://www.medrxiv.org/content/10.1101/2024.01.24.24301744v1
+Paper   https://www.medrxiv.org/content/10.1101/2024.01.24.24301744v1
 
 OCW:  A really simple language for controlling microfluidic valves
 ocw.png
 GitHub  https://github.com/groverlab/ocw
+
+CandyCodes:  simple universally unique edible identifiers for confirming the authenticity of pharmaceuticals
+candycodes.png
+GitHub  https://github.com/groverlab/candycodes
+Paper  https://www.nature.com/articles/s41598-022-11234-4
