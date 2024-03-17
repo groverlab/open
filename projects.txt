@@ -27,3 +27,8 @@ CandyCodes:  simple universally unique edible identifiers for confirming the aut
 candycodes.png
 GitHub  https://github.com/groverlab/candycodes
 Paper  https://www.nature.com/articles/s41598-022-11234-4
+
+RFIDbee:  A low-cost Arduino-based system for tracking RFID-tagged bumblebees</a>
+rfidbee.png
+GitHub  https://github.com/groverlab/RFIDbee
+
