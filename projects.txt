@@ -3,24 +3,30 @@ error_detector.jpeg
 Hardware  https://github.com/groverlab/pressurama
 Paper   https://arxiv.org/abs/2401.16500
 
-Pressurama:  Arduino-based multi-channel pressure/vacuum logger
-error_detector.jpeg
-Code  https://github.com/groverlab/pressurama
-Hardware  https://github.com/groverlab/pressurama
-
 Vacuum-powered Intermittent Pneumatic Compression (IPC) device
 ipc.png
 Hardware    asdf
 Paper   https://arxiv.org/abs/2401.16500
+
+Pneumatic oscillator for controlling biomedical devices
+oscillator.png
+Hardware    asdf
+Paper   https://www.medrxiv.org/content/10.1101/2024.01.24.24301744v1
 
 Vacuum-powered laboratory rocker/shaker 
 rocker.png
 Hardware    asdf
 Paper   https://www.medrxiv.org/content/10.1101/2024.01.24.24301744v1
 
-Vacuum-powered Intermittent Pneumatic Compression (IPC) device
-ipc.png
-Paper   asdf
+Pressurama:  Arduino-based multi-channel pressure/vacuum logger
+error_detector.jpeg
+Code  https://github.com/groverlab/pressurama
+Hardware  https://github.com/groverlab/pressurama
+
+Pneumatic random-access memory
+pneumatic_ram.png
+Hardware    asdf
+Paper   https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254524
 
 OCW:  A really simple language for controlling microfluidic valves
 ocw.png
