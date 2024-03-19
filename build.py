@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python3
 projectsfile = open("projects.txt", "r")
 infile1 = open("1.html", "r")
 infile2 = open("2.html", "r")
