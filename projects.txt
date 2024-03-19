@@ -15,6 +15,7 @@ Paper   https://www.medrxiv.org/content/10.1101/2024.01.24.24301744v1
 
 Vacuum-powered laboratory rocker/shaker 
 rocker.png
+Hardware    https://github.com/groverlab/rocker
 Paper   https://www.medrxiv.org/content/10.1101/2024.01.24.24301744v1
 
 Pressurama:  Arduino-based multi-channel pressure/vacuum logger
