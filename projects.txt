@@ -27,7 +27,7 @@ pneumatic_ram.png
 Hardware    https://github.com/groverlab/pneumatic_RAM
 Paper   https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254524
 
-Vacuum-powered 3D-printable soft robotic finger
+Vacuum-powered 3D-printable soft robotic fingers
 fingers.jpeg
 Hardware    https://github.com/groverlab/soft_robot_finger
 Paper   https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254524
