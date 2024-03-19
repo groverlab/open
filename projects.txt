@@ -1,31 +1,35 @@
 Pneumatic error detector
 error_detector.jpeg
-Hardware  https://github.com/groverlab/pressurama
+Hardware  https://github.com/groverlab/pneumatic_error_detector
 Paper   https://arxiv.org/abs/2401.16500
 
 Vacuum-powered Intermittent Pneumatic Compression (IPC) device
 ipc.png
-Hardware    asdf
+Hardware    https://github.com/groverlab/ipc
 Paper   https://arxiv.org/abs/2401.16500
 
 Pneumatic oscillator for controlling biomedical devices
 oscillator.png
-Hardware    asdf
+Hardware    https://github.com/groverlab/oscillator
 Paper   https://www.medrxiv.org/content/10.1101/2024.01.24.24301744v1
 
 Vacuum-powered laboratory rocker/shaker 
 rocker.png
-Hardware    asdf
 Paper   https://www.medrxiv.org/content/10.1101/2024.01.24.24301744v1
 
 Pressurama:  Arduino-based multi-channel pressure/vacuum logger
-error_detector.jpeg
-Code  https://github.com/groverlab/pressurama
+pressurama.jpeg
+Software  https://github.com/groverlab/pressurama
 Hardware  https://github.com/groverlab/pressurama
 
 Pneumatic random-access memory
 pneumatic_ram.png
-Hardware    asdf
+Hardware    https://github.com/groverlab/pneumatic_RAM
+Paper   https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254524
+
+Vacuum-powered 3D-printable soft robotic finger
+fingers.jpeg
+Hardware    https://github.com/groverlab/soft_robot_finger
 Paper   https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254524
 
 OCW:  A really simple language for controlling microfluidic valves
@@ -39,5 +43,5 @@ Paper  https://www.nature.com/articles/s41598-022-11234-4
 
 RFIDbee:  A low-cost Arduino-based system for tracking RFID-tagged bumblebees</a>
 rfidbee.png
-Code  https://github.com/groverlab/RFIDbee
+Software  https://github.com/groverlab/RFIDbee
 Hardware  https://github.com/groverlab/RFIDbee
