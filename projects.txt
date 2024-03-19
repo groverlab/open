@@ -36,9 +36,9 @@ OCW:  A really simple language for controlling microfluidic valves
 ocw.png
 Software  https://github.com/groverlab/ocw
 
-CandyCodes:  simple universally unique edible identifiers for confirming the authenticity of pharmaceuticals
+CandyCodes:  Simple universally unique edible identifiers for confirming the authenticity of pharmaceuticals
 candycodes.png
-Code  https://github.com/groverlab/candycodes
+Software  https://github.com/groverlab/candycodes
 Paper  https://www.nature.com/articles/s41598-022-11234-4
 
 RFIDbee:  A low-cost Arduino-based system for tracking RFID-tagged bumblebees</a>
