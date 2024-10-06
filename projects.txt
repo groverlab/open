@@ -1,3 +1,7 @@
+3D-printable model of Paul Giguere's 3D periodic table of the elements
+giguere-3D-periodic-table.png
+Hardware  https://github.com/groverlab/giguere-3D-periodic-table/
+
 Pneumatic error detector
 error_detector.jpeg
 Hardware  https://github.com/groverlab/pneumatic_error_detector
