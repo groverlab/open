@@ -1,3 +1,9 @@
+Disintegration Fingerprinting:  A low-cost and easy-to-use tool for identifying substandard and falsified medicines
+df.png
+Hardware  https://github.com/groverlab/disintegration-fingerprinting
+Software  https://github.com/groverlab/disintegration-fingerprinting
+Paper   TBD
+
 3D-printable model of Paul Giguere's 3D periodic table of the elements
 giguere-3D-periodic-table.png
 Hardware  https://github.com/groverlab/giguere-3D-periodic-table/
