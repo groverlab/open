@@ -56,3 +56,4 @@ RFIDbee:  A low-cost Arduino-based system for tracking RFID-tagged bumblebees</a
 rfidbee.png
 Software  https://github.com/groverlab/RFIDbee
 Hardware  https://github.com/groverlab/RFIDbee
+Paper   https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.71016
