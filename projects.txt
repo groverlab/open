@@ -1,8 +1,13 @@
+Ultrasonic gas sensor
+ultrasonic_gas_sensor_photo.jpeg
+Hardware  https://github.com/groverlab/ultrasonic_gas_sensor
+Software  https://github.com/groverlab/ultrasonic_gas_sensor
+
 Disintegration Fingerprinting:  A low-cost and easy-to-use tool for identifying substandard and falsified medicines
 df.png
 Hardware  https://github.com/groverlab/disintegration-fingerprinting
 Software  https://github.com/groverlab/disintegration-fingerprinting
-Paper   TBD
+Paper   https://doi.org/10.1101/2025.08.15.25333621
 
 3D-printable model of Paul Giguere's 3D periodic table of the elements
 giguere-3D-periodic-table.png
@@ -11,22 +16,22 @@ Hardware  https://github.com/groverlab/giguere-3D-periodic-table/
 Pneumatic error detector
 error_detector.jpeg
 Hardware  https://github.com/groverlab/pneumatic_error_detector
-Paper   https://arxiv.org/abs/2401.16500
+Paper   https://www.sciencedirect.com/science/article/pii/S2666998624004071
 
 Vacuum-powered Intermittent Pneumatic Compression (IPC) device
 ipc.png
 Hardware    https://github.com/groverlab/ipc
-Paper   https://arxiv.org/abs/2401.16500
+Paper   https://www.sciencedirect.com/science/article/pii/S2666998624004071
 
 Pneumatic oscillator for controlling biomedical devices
 oscillator.png
 Hardware    https://github.com/groverlab/oscillator
-Paper   https://www.medrxiv.org/content/10.1101/2024.01.24.24301744v1
+Paper   https://link.springer.com/article/10.1007/s10439-024-03628-4
 
 Vacuum-powered laboratory rocker/shaker 
 rocker.png
 Hardware    https://github.com/groverlab/rocker
-Paper   https://www.medrxiv.org/content/10.1101/2024.01.24.24301744v1
+Paper   https://link.springer.com/article/10.1007/s10439-024-03628-4
 
 Pressurama:  Arduino-based multi-channel pressure/vacuum logger
 pressurama.jpeg
